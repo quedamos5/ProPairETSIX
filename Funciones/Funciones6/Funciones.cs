@@ -16,10 +16,10 @@ namespace Funciones6
             return numb;
         }
 
-        public static int FillVector(int[] arr, int numb = 0)
+        public static int FillVector(int[] arr, int numbs = 0)
         {
-            arr[numb] = ValidateNumb();
-            return numb == arr.Length - 1 ? 0 : FillVector(arr, numb + 1);
+            arr[numbs] = ValidateNumb();
+            return numbs == arr.Length - 1 ? 0 : FillVector(arr, numbs + 1);
         }
 
         public static int Avg(int[] arr)

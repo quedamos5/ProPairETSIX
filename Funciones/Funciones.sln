@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funciones", "Funciones\Funciones.csproj", "{F14D0D64-B47C-4A3B-B10D-DF3FAF2E4E94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funciones", "Funciones\Funciones.csproj", "{F14D0D64-B47C-4A3B-B10D-DF3FAF2E4E94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funciones2", "Funciones2\Funciones2.csproj", "{4F364631-DBD9-45F4-92F8-6544954C214E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funciones2", "Funciones2\Funciones2.csproj", "{4F364631-DBD9-45F4-92F8-6544954C214E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funciones3", "Funciones3\Funciones3.csproj", "{F69D557A-8DEC-4394-8E75-7E1A8827AB3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funciones3", "Funciones3\Funciones3.csproj", "{F69D557A-8DEC-4394-8E75-7E1A8827AB3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funciones4", "Funciones4\Funciones4.csproj", "{54007E4F-1ECA-4383-821B-BE22D2DEB677}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funciones4", "Funciones4\Funciones4.csproj", "{54007E4F-1ECA-4383-821B-BE22D2DEB677}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funciones5", "Funciones5\Funciones5.csproj", "{B7678C36-D5F1-4F16-B60B-AE4BDB4A92D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funciones5", "Funciones5\Funciones5.csproj", "{B7678C36-D5F1-4F16-B60B-AE4BDB4A92D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funciones6", "Funciones6\Funciones6.csproj", "{7BDDA925-3433-4A93-ACF6-3BB189A905B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funciones6", "Funciones6\Funciones6.csproj", "{7BDDA925-3433-4A93-ACF6-3BB189A905B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funciones7", "Funciones7\Funciones7.csproj", "{05C81F7F-5C40-498C-8430-0BD906E4A80E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{7BDDA925-3433-4A93-ACF6-3BB189A905B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BDDA925-3433-4A93-ACF6-3BB189A905B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BDDA925-3433-4A93-ACF6-3BB189A905B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05C81F7F-5C40-498C-8430-0BD906E4A80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C81F7F-5C40-498C-8430-0BD906E4A80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C81F7F-5C40-498C-8430-0BD906E4A80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C81F7F-5C40-498C-8430-0BD906E4A80E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
