@@ -1,0 +1,15 @@
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Funciones\Funciones5\bin\Debug\net6.0\Funciones5.exe
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Funciones\Funciones5\bin\Debug\net6.0\Funciones5.deps.json
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Funciones\Funciones5\bin\Debug\net6.0\Funciones5.runtimeconfig.json
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Funciones\Funciones5\bin\Debug\net6.0\Funciones5.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Funciones\Funciones5\bin\Debug\net6.0\Funciones5.pdb
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Funciones\Funciones5\obj\Debug\net6.0\Funciones5.csproj.AssemblyReference.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Funciones\Funciones5\obj\Debug\net6.0\Funciones5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Funciones\Funciones5\obj\Debug\net6.0\Funciones5.AssemblyInfoInputs.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Funciones\Funciones5\obj\Debug\net6.0\Funciones5.AssemblyInfo.cs
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Funciones\Funciones5\obj\Debug\net6.0\Funciones5.csproj.CoreCompileInputs.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Funciones\Funciones5\obj\Debug\net6.0\Funciones5.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Funciones\Funciones5\obj\Debug\net6.0\refint\Funciones5.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Funciones\Funciones5\obj\Debug\net6.0\Funciones5.pdb
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Funciones\Funciones5\obj\Debug\net6.0\Funciones5.genruntimeconfig.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Funciones\Funciones5\obj\Debug\net6.0\ref\Funciones5.dll
