@@ -1,0 +1,15 @@
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ArrPOO\bin\Debug\net6.0\ArrPOO.exe
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ArrPOO\bin\Debug\net6.0\ArrPOO.deps.json
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ArrPOO\bin\Debug\net6.0\ArrPOO.runtimeconfig.json
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ArrPOO\bin\Debug\net6.0\ArrPOO.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ArrPOO\bin\Debug\net6.0\ArrPOO.pdb
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ArrPOO\obj\Debug\net6.0\ArrPOO.csproj.AssemblyReference.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ArrPOO\obj\Debug\net6.0\ArrPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ArrPOO\obj\Debug\net6.0\ArrPOO.AssemblyInfoInputs.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ArrPOO\obj\Debug\net6.0\ArrPOO.AssemblyInfo.cs
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ArrPOO\obj\Debug\net6.0\ArrPOO.csproj.CoreCompileInputs.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ArrPOO\obj\Debug\net6.0\ArrPOO.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ArrPOO\obj\Debug\net6.0\refint\ArrPOO.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ArrPOO\obj\Debug\net6.0\ArrPOO.pdb
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ArrPOO\obj\Debug\net6.0\ArrPOO.genruntimeconfig.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ArrPOO\obj\Debug\net6.0\ref\ArrPOO.dll

@@ -1,0 +1,15 @@
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\EjercicioPOO\bin\Debug\net6.0\EjercicioPOO.exe
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\EjercicioPOO\bin\Debug\net6.0\EjercicioPOO.deps.json
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\EjercicioPOO\bin\Debug\net6.0\EjercicioPOO.runtimeconfig.json
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\EjercicioPOO\bin\Debug\net6.0\EjercicioPOO.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\EjercicioPOO\bin\Debug\net6.0\EjercicioPOO.pdb
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\EjercicioPOO\obj\Debug\net6.0\EjercicioPOO.csproj.AssemblyReference.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\EjercicioPOO\obj\Debug\net6.0\EjercicioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\EjercicioPOO\obj\Debug\net6.0\EjercicioPOO.AssemblyInfoInputs.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\EjercicioPOO\obj\Debug\net6.0\EjercicioPOO.AssemblyInfo.cs
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\EjercicioPOO\obj\Debug\net6.0\EjercicioPOO.csproj.CoreCompileInputs.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\EjercicioPOO\obj\Debug\net6.0\EjercicioPOO.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\EjercicioPOO\obj\Debug\net6.0\refint\EjercicioPOO.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\EjercicioPOO\obj\Debug\net6.0\EjercicioPOO.pdb
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\EjercicioPOO\obj\Debug\net6.0\EjercicioPOO.genruntimeconfig.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\EjercicioPOO\obj\Debug\net6.0\ref\EjercicioPOO.dll

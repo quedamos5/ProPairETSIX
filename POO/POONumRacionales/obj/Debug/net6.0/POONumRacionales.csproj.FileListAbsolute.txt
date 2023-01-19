@@ -1,0 +1,15 @@
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POONumRacionales\bin\Debug\net6.0\POONumRacionales.exe
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POONumRacionales\bin\Debug\net6.0\POONumRacionales.deps.json
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POONumRacionales\bin\Debug\net6.0\POONumRacionales.runtimeconfig.json
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POONumRacionales\bin\Debug\net6.0\POONumRacionales.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POONumRacionales\bin\Debug\net6.0\POONumRacionales.pdb
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POONumRacionales\obj\Debug\net6.0\POONumRacionales.csproj.AssemblyReference.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POONumRacionales\obj\Debug\net6.0\POONumRacionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POONumRacionales\obj\Debug\net6.0\POONumRacionales.AssemblyInfoInputs.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POONumRacionales\obj\Debug\net6.0\POONumRacionales.AssemblyInfo.cs
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POONumRacionales\obj\Debug\net6.0\POONumRacionales.csproj.CoreCompileInputs.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POONumRacionales\obj\Debug\net6.0\POONumRacionales.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POONumRacionales\obj\Debug\net6.0\refint\POONumRacionales.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POONumRacionales\obj\Debug\net6.0\POONumRacionales.pdb
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POONumRacionales\obj\Debug\net6.0\POONumRacionales.genruntimeconfig.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POONumRacionales\obj\Debug\net6.0\ref\POONumRacionales.dll

@@ -1,0 +1,15 @@
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ConceptosPOO\bin\Debug\net6.0\ConceptosPOO.exe
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ConceptosPOO\bin\Debug\net6.0\ConceptosPOO.deps.json
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ConceptosPOO\bin\Debug\net6.0\ConceptosPOO.runtimeconfig.json
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ConceptosPOO\bin\Debug\net6.0\ConceptosPOO.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ConceptosPOO\bin\Debug\net6.0\ConceptosPOO.pdb
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ConceptosPOO\obj\Debug\net6.0\ConceptosPOO.csproj.AssemblyReference.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ConceptosPOO\obj\Debug\net6.0\ConceptosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ConceptosPOO\obj\Debug\net6.0\ConceptosPOO.AssemblyInfoInputs.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ConceptosPOO\obj\Debug\net6.0\ConceptosPOO.AssemblyInfo.cs
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ConceptosPOO\obj\Debug\net6.0\ConceptosPOO.csproj.CoreCompileInputs.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ConceptosPOO\obj\Debug\net6.0\ConceptosPOO.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ConceptosPOO\obj\Debug\net6.0\refint\ConceptosPOO.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ConceptosPOO\obj\Debug\net6.0\ConceptosPOO.pdb
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ConceptosPOO\obj\Debug\net6.0\ConceptosPOO.genruntimeconfig.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\ConceptosPOO\obj\Debug\net6.0\ref\ConceptosPOO.dll

@@ -1,0 +1,15 @@
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POOHerencia\obj\Debug\net6.0\POOHerencia.csproj.AssemblyReference.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POOHerencia\obj\Debug\net6.0\POOHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POOHerencia\obj\Debug\net6.0\POOHerencia.AssemblyInfoInputs.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POOHerencia\obj\Debug\net6.0\POOHerencia.AssemblyInfo.cs
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POOHerencia\obj\Debug\net6.0\POOHerencia.csproj.CoreCompileInputs.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POOHerencia\bin\Debug\net6.0\POOHerencia.exe
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POOHerencia\bin\Debug\net6.0\POOHerencia.deps.json
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POOHerencia\bin\Debug\net6.0\POOHerencia.runtimeconfig.json
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POOHerencia\bin\Debug\net6.0\POOHerencia.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POOHerencia\bin\Debug\net6.0\POOHerencia.pdb
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POOHerencia\obj\Debug\net6.0\POOHerencia.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POOHerencia\obj\Debug\net6.0\refint\POOHerencia.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POOHerencia\obj\Debug\net6.0\POOHerencia.pdb
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POOHerencia\obj\Debug\net6.0\POOHerencia.genruntimeconfig.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\POO\POOHerencia\obj\Debug\net6.0\ref\POOHerencia.dll
