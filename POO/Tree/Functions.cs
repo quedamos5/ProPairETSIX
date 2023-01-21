@@ -71,17 +71,6 @@ namespace Tree
             int selection = GetOption();
             return selection;
         }
-        /*
-        Console.WriteLine("---------");
-            string where = "", what = "";
-        Console.WriteLine("Donde deseas insertar");
-            where = Console.ReadLine() ?? "";
-            Console.WriteLine("Que deseas insertar");
-            what = Console.ReadLine() ?? "";
-
-            find = tree.Search(where, root);
-            tree.Insert(what, find);
-            tree.TransversaPreO(root);*/
         private static Node InsertWhere(ref Tree tree, Node root)
         {
             string where = "";
