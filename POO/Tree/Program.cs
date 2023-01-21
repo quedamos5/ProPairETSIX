@@ -4,14 +4,16 @@
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Introduzca el primer valor del arbol");
+            string firstValue = Console.ReadLine() ?? "";
             // Instanciamos el árbol
             Tree tree = new Tree();
 
             // Instanciamos la raíz del árbol
-            Node root = tree.Insert("a", null);
-
+            Node root = tree.Insert(firstValue, null);
+            Functions.Menu(tree, root);
             // Creamos el arbol
-            tree.Insert("b", root);
+/*            tree.Insert("b", root);
             Node n = tree.Insert("c", root);
             tree.Insert("d", n);
             n = tree.Insert("f", n);
@@ -45,7 +47,7 @@
 
             find = tree.Search(where, root);
             tree.Insert(what, find);
-            tree.TransversaPreO(root);
+            tree.TransversaPreO(root);*/
 
         }
     }
