@@ -16,14 +16,15 @@ namespace Tree
                 Console.WriteLine("Introduzca que operación desea realizar: ");
                 Console.WriteLine("1: Insertar nodo en el árbol");
                 Console.WriteLine("2: Buscar dato en el árbol");
+                Console.WriteLine("Para terminar el programa introduzca 0");
                 Console.WriteLine("El estado actual del arbol es: ");
                 tree.TransversaPreO(root);
                 switch(GetOption())
                 {
+                    case 0: end = true; break;
                     case 1: InsertNode(ref tree, root); break;
+                    case 2: SearchData(tree, root);  break;
                 }
-                Console.WriteLine("Desea acabar el programa: 1- Si. 2- No");
-                end = GetOption() == 1 ? true : false;
                 Console.Clear();
             }
         }
@@ -31,10 +32,9 @@ namespace Tree
         private static int GetOption()
         {
             int numb = 0;
-            do
+            while (!Int32.TryParse(Console.ReadLine(), out numb) || numb > 2 || numb < 0) 
                 Console.WriteLine("Introduzca un número entre 1 y 2");
-            while (!Int32.TryParse(Console.ReadLine(), out numb));
-            return numb >= 1 && numb <= 2 ? numb : GetOption();
+            return numb;
         }
 
         private static void InsertNode(ref Tree tree, Node root)
@@ -45,16 +45,21 @@ namespace Tree
             }
             else
             {
+                string[] data = ArrOfData();
                 if (SelectInsert() == 1)
-                    InsertInRoot(ref tree, root);
+                    InsertData(data, ref tree, root);
                 else
                 {
-                    Node find = InsertWhere(ref tree, root);
-                    string[] data = ArrOfData();
-                    foreach(string pData in data)
-                       tree.Insert(pData, find);
+                    Node find = FindWhere(ref tree, root);
+                    InsertData(data, ref tree, find);
                 }
             }
+        }
+
+        private static void InsertData(string[] data, ref Tree tree, Node node)
+        {
+            foreach (string pData in data)
+                tree.Insert(pData, node);
         }
 
         private static void InsertInRoot(ref Tree tree, Node root)
@@ -71,17 +76,17 @@ namespace Tree
             int selection = GetOption();
             return selection;
         }
-        private static Node InsertWhere(ref Tree tree, Node root)
+        private static Node FindWhere(ref Tree tree, Node root)
         {
             string where = "";
-            Console.WriteLine("En que nodo deseas insertar");
+            Console.WriteLine("En que nodo deseas trabajar");
             where = Console.ReadLine() ?? "";
             Node find = tree.Search(where, root);
             if (find == null)
             {
                 Console.WriteLine("No se encontro el nodo, por favor introduzca un nodo existente");
                 tree.TransversaPreO(root);
-                InsertWhere(ref tree, root);
+                find = FindWhere(ref tree, root);
             }
             return find;
         }
@@ -93,6 +98,13 @@ namespace Tree
             Console.WriteLine("Introduzca los datos que desea insertar en el nodo separados por 1 espacio");
             string[] arrOfData = DataToInsert().Split(' ');
             return arrOfData;
+        }
+
+        private static void SearchData(Tree tree, Node root)
+        {
+            Node node = FindWhere(ref tree, root);
+            Console.WriteLine(node.Data);
+            Console.ReadKey();
         }
     }
 }
