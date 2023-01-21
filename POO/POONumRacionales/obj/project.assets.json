@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\34633\\Desktop\\Desktop\\P3_ETS\\POO\\POONumRacionales\\POONumRacionales.csproj",
+      "projectUniqueName": "C:\\Users\\34633\\Desktop\\Desktop\\P3_ETS\\PR0\\POO\\POONumRacionales\\POONumRacionales.csproj",
       "projectName": "POONumRacionales",
-      "projectPath": "C:\\Users\\34633\\Desktop\\Desktop\\P3_ETS\\POO\\POONumRacionales\\POONumRacionales.csproj",
+      "projectPath": "C:\\Users\\34633\\Desktop\\Desktop\\P3_ETS\\PR0\\POO\\POONumRacionales\\POONumRacionales.csproj",
       "packagesPath": "C:\\Users\\34633\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\34633\\Desktop\\Desktop\\P3_ETS\\POO\\POONumRacionales\\obj\\",
+      "outputPath": "C:\\Users\\34633\\Desktop\\Desktop\\P3_ETS\\PR0\\POO\\POONumRacionales\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

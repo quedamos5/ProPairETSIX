@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\34633\\Desktop\\Desktop\\P3_ETS\\POO\\POOHerencia\\POOHerencia.csproj": {}
+    "C:\\Users\\34633\\Desktop\\Desktop\\P3_ETS\\PR0\\POO\\POOHerencia\\POOHerencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\34633\\Desktop\\Desktop\\P3_ETS\\POO\\POOHerencia\\POOHerencia.csproj": {
+    "C:\\Users\\34633\\Desktop\\Desktop\\P3_ETS\\PR0\\POO\\POOHerencia\\POOHerencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\34633\\Desktop\\Desktop\\P3_ETS\\POO\\POOHerencia\\POOHerencia.csproj",
+        "projectUniqueName": "C:\\Users\\34633\\Desktop\\Desktop\\P3_ETS\\PR0\\POO\\POOHerencia\\POOHerencia.csproj",
         "projectName": "POOHerencia",
-        "projectPath": "C:\\Users\\34633\\Desktop\\Desktop\\P3_ETS\\POO\\POOHerencia\\POOHerencia.csproj",
+        "projectPath": "C:\\Users\\34633\\Desktop\\Desktop\\P3_ETS\\PR0\\POO\\POOHerencia\\POOHerencia.csproj",
         "packagesPath": "C:\\Users\\34633\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\34633\\Desktop\\Desktop\\P3_ETS\\POO\\POOHerencia\\obj\\",
+        "outputPath": "C:\\Users\\34633\\Desktop\\Desktop\\P3_ETS\\PR0\\POO\\POOHerencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

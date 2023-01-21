@@ -61,5 +61,83 @@ namespace Tree
                 return temp;
             }
         }
+
+        // Transversa preorder
+        public void TransversaPreO(Node node)
+        {
+            if (node == null)
+                return;
+
+            // Proceseo primero a mi
+            for (int j = 0; j < i; j++)
+                Console.Write(" ");
+
+            Console.WriteLine(node.Data);
+
+            // Luego proceso a mi hijo
+            if(node.Son != null)
+            {
+                i++;
+                TransversaPreO(node.Son);
+                i--;
+            }
+            // Si tengo hermanos los proceso
+            if (node.Sibling != null)
+                TransversaPreO(node.Sibling);
+        }
+
+        // Transversa PostOrder
+        public void TransversaPostO(Node node)
+        {
+            if (node == null) return;
+
+            // Primero proceso a mi hijo
+            if (node.Son != null)
+            {
+                i++;
+                TransversaPostO(node.Son);
+                i--;
+            }
+
+            // Si tengo hermano los proceso
+            if (node.Sibling != null)
+                TransversaPostO(node.Sibling);
+
+            // Luego me proceso a mi
+            for (int j = 0; j < i; j++)
+                Console.Write(" ");
+            Console.WriteLine(node.Data);
+        }
+
+        public Node Search(string data, Node node)
+        {
+            Node find = null;
+            if (node == null)
+                return find;
+
+            if(node.Data.CompareTo(data) == 0)
+            {
+                find = node;
+                return find;
+            }
+
+            // Si tengo hijos los proceso
+            if(node.Son != null)
+            {
+                find = Search(data, node.Son);
+                if (find != null)
+                    return find;
+            }
+
+            // Si tengo hermanos los proceso
+            if (node.Sibling != null)
+            {
+                find = Search(data, node.Sibling);
+                if (find != null)
+                    return find;
+            }
+            return find;
+        }
+
     }
 }

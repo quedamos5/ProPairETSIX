@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\34633\\Desktop\\Desktop\\P3_ETS\\POO\\ArrPOO\\ArrPOO.csproj",
+      "projectUniqueName": "C:\\Users\\34633\\Desktop\\Desktop\\P3_ETS\\PR0\\POO\\ArrPOO\\ArrPOO.csproj",
       "projectName": "ArrPOO",
-      "projectPath": "C:\\Users\\34633\\Desktop\\Desktop\\P3_ETS\\POO\\ArrPOO\\ArrPOO.csproj",
+      "projectPath": "C:\\Users\\34633\\Desktop\\Desktop\\P3_ETS\\PR0\\POO\\ArrPOO\\ArrPOO.csproj",
       "packagesPath": "C:\\Users\\34633\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\34633\\Desktop\\Desktop\\P3_ETS\\POO\\ArrPOO\\obj\\",
+      "outputPath": "C:\\Users\\34633\\Desktop\\Desktop\\P3_ETS\\PR0\\POO\\ArrPOO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
