@@ -139,5 +139,11 @@ namespace Tree
             return find;
         }
 
+        // Eliminar hijos de un nodo
+        public void DeletedNodeSon(Node node) => node.Son = null;
+
+        // Eliminar hermano de un nodo
+        public void DeletedNodeSibling(Node node) => node.Sibling = null;
+
     }
 }

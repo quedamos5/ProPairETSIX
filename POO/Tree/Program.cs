@@ -11,9 +11,9 @@
 
             // Instanciamos la raíz del árbol
             Node root = tree.Insert(firstValue, null);
-            Functions.Menu(tree, root);
+            // Functions.Menu(tree, root);
             // Creamos el arbol
-/*            tree.Insert("b", root);
+            tree.Insert("b", root);
             Node n = tree.Insert("c", root);
             tree.Insert("d", n);
             n = tree.Insert("f", n);
@@ -47,7 +47,12 @@
 
             find = tree.Search(where, root);
             tree.Insert(what, find);
-            tree.TransversaPreO(root);*/
+            tree.TransversaPreO(root);
+            tree.DeletedNode(find);
+            Console.WriteLine("-----------");
+            tree.TransversaPreO(root);
+
+            
 
         }
     }
