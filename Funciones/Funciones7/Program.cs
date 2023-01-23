@@ -10,18 +10,17 @@
             int[] arr = Funciones.ConcurrencesOfLetter(cadena, letra);
             Console.WriteLine("Indice: Primer elemento numero de concurrencias. \nSiguientes elementos indices de dichas concurrencias.");
             Console.WriteLine($"El array queda asi: {string.Join(", ", arr)}");
-            Console.WriteLine();
-            Console.WriteLine(Decode(".... . -.--   .--- ..- -.. ."));
+            Console.WriteLine(IsPrime(9));
+            Console.WriteLine(IsPrime(43));
+            Console.WriteLine(IsPrime(122));
+            Console.WriteLine(IsPrime(71));
         }
 
-        public static string Decode(string morseCode)
+        public static bool IsPrime(int numb, int i = 2)
         {
-            string[] morse = morseCode.Split(' ');
-            Console.WriteLine(morse.Length);
-            string decoded = " ";
-            for(int i = 0; i < morse.Length; ++i)
-                Console.WriteLine(morse[i]);
-            return decoded;
+            if (i >= Math.Sqrt(numb))
+                return numb % i == 0 ? false : true;
+            return numb % i == 0 ? false : IsPrime(numb, i + 1);
         }
     }
 
