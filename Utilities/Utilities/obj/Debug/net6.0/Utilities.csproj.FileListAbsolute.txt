@@ -1,0 +1,12 @@
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Utilities\Utilities\bin\Debug\net6.0\Utilities.deps.json
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Utilities\Utilities\bin\Debug\net6.0\Utilities.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Utilities\Utilities\bin\Debug\net6.0\Utilities.pdb
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Utilities\Utilities\obj\Debug\net6.0\Utilities.csproj.AssemblyReference.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Utilities\Utilities\obj\Debug\net6.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Utilities\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Utilities\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfo.cs
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Utilities\Utilities\obj\Debug\net6.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Utilities\Utilities\obj\Debug\net6.0\Utilities.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Utilities\Utilities\obj\Debug\net6.0\refint\Utilities.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Utilities\Utilities\obj\Debug\net6.0\Utilities.pdb
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Utilities\Utilities\obj\Debug\net6.0\ref\Utilities.dll

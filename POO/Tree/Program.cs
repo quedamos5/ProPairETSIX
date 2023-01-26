@@ -48,7 +48,6 @@
             find = tree.Search(where, root);
             tree.Insert(what, find);
             tree.TransversaPreO(root);
-            tree.DeletedNode(find);
             Console.WriteLine("-----------");
             tree.TransversaPreO(root);
 
