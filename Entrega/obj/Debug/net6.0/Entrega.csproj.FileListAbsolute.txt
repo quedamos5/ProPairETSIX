@@ -1,0 +1,15 @@
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Prueba\Entrega\bin\Debug\net6.0\Entrega.exe
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Prueba\Entrega\bin\Debug\net6.0\Entrega.deps.json
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Prueba\Entrega\bin\Debug\net6.0\Entrega.runtimeconfig.json
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Prueba\Entrega\bin\Debug\net6.0\Entrega.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Prueba\Entrega\bin\Debug\net6.0\Entrega.pdb
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Prueba\Entrega\obj\Debug\net6.0\Entrega.csproj.AssemblyReference.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Prueba\Entrega\obj\Debug\net6.0\Entrega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Prueba\Entrega\obj\Debug\net6.0\Entrega.AssemblyInfoInputs.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Prueba\Entrega\obj\Debug\net6.0\Entrega.AssemblyInfo.cs
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Prueba\Entrega\obj\Debug\net6.0\Entrega.csproj.CoreCompileInputs.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Prueba\Entrega\obj\Debug\net6.0\Entrega.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Prueba\Entrega\obj\Debug\net6.0\refint\Entrega.dll
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Prueba\Entrega\obj\Debug\net6.0\Entrega.pdb
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Prueba\Entrega\obj\Debug\net6.0\Entrega.genruntimeconfig.cache
+C:\Users\34633\Desktop\Desktop\P3_ETS\PR0\Prueba\Entrega\obj\Debug\net6.0\ref\Entrega.dll
