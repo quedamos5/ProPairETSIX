@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ModuloPRO\\.nuget\\packages\\": {}
+    "C:\\Users\\andre\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ModuloPRO\\Desktop\\Proyectos\\pRo\\PR0\\Funciones\\Funciones\\Funciones.csproj",
+      "projectUniqueName": "M:\\Desktop\\ProPairETSIX\\Funciones\\Funciones\\Funciones.csproj",
       "projectName": "Funciones",
-      "projectPath": "C:\\Users\\ModuloPRO\\Desktop\\Proyectos\\pRo\\PR0\\Funciones\\Funciones\\Funciones.csproj",
-      "packagesPath": "C:\\Users\\ModuloPRO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ModuloPRO\\Desktop\\Proyectos\\pRo\\PR0\\Funciones\\Funciones\\obj\\",
+      "projectPath": "M:\\Desktop\\ProPairETSIX\\Funciones\\Funciones\\Funciones.csproj",
+      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+      "outputPath": "M:\\Desktop\\ProPairETSIX\\Funciones\\Funciones\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ModuloPRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
